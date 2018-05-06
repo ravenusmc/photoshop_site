@@ -30,3 +30,18 @@ section {
   background-color: rgb(40,40,40);
   padding-left: 5%;
 }
+
+.sub_heading {
+  color: white;
+}
+
+.main_info_area {
+  display: flex;
+  flex-direction: row;
+}
+
+.who_i_am_area {
+  margin-left: 5%;
+  margin-right: 5%;
+  line-height: 20px;
+}
