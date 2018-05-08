@@ -44,6 +44,17 @@ img {
   height: 500px;
 }
 
+/* Footer Code */
+
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 75px;
+  margin-bottom: 50px;
+}
+
 /* Media Quries */
 
 @media only all and (max-width: 768px) {
